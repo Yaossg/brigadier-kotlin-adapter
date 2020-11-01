@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    compile group: 'com.github.neder-land', name: 'nederlib', 'version': '0.4.3' 
+    compile group: 'com.github.neder-land', name: 'brigadier-kotlin-adapter', 'version': '0.4.3' 
 }
 
 ```
