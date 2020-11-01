@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    compile group: 'com.github.neder-land', name: 'nederlib', 'version': '0.1.3' 
+    compile group: 'com.github.neder-land', name: 'nederlib', 'version': '0.4.3' 
 }
 
 ```
